@@ -22,7 +22,6 @@ Slider orizzontale di prodotti in React, pensato per integrazione su Shopify o a
 
 [![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)]()  
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)]()  
-[![Replit](https://img.shields.io/badge/Creato%20su-Replit-orange?style=for-the-badge&logo=replit)]()
 
 ---
 
